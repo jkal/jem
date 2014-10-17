@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+try:
+    from jem_pkg.core import main
+except ImportError, e:
+    from jem.core import main
+
+if __name__ == '__main__':
+    main()  

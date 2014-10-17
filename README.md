@@ -1,0 +1,1 @@
+A tiny tag manager with support for OS X Finder tags.
